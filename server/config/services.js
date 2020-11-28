@@ -36,7 +36,7 @@ module.exports = {
   },
   placesToStay: {
     api: '/:id/places',
-    url: 'http://13.57.59.205:3004',
+    url: 'http://54.151.93.23:3004',
     bundle: '/:id/main.js',
   },
 };
