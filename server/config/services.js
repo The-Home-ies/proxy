@@ -21,22 +21,26 @@ module.exports = {
   // },
   photoCarousel: {
     api: '/',
-    url: 'http://204.236.160.152:3001',
+    // url: 'http://204.236.160.152:3001',
+    url: 'http://54.241.52.191:3001',
     bundle: '/:id/bundle.js',
   },
   reservations: {
     api: '/listings/:id',
-    url: 'http://18.217.62.125:3002',
+    // url: 'http://18.217.62.125:3002',
+    url: 'http://18.208.4.171',
     bundle: '/listings/:id/build/bundle.js',
   },
   reviews: {
     api: '/review-listings/:id/reviews',
-    url: 'http://3.134.82.244:3003/',
+    // url: 'http://3.134.82.244:3003/',
+    url: 'http://54.183.244.149:3003',
     bundle: '/:id/bundle.js',
   },
   placesToStay: {
     api: '/:id/places',
-    url: 'http://54.151.93.23:3004',
+    // url: 'http://54.151.93.23:3004',
+    url: 'http://18.144.8.147:3004',
     bundle: '/:id/main.js',
   },
 };

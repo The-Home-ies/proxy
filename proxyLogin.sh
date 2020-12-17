@@ -1,0 +1,1 @@
+ssh -i "rickysoliman.pem" ec2-user@ec2-13-52-186-191.us-west-1.compute.amazonaws.com
