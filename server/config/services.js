@@ -26,7 +26,7 @@ module.exports = {
   },
   reservations: {
     api: '/:id',
-    url: 'http://18.208.4.171',
+    url: 'http://54.151.102.122',
     bundle: '/:id/build/bundle.js',
   },
   reviews: {
